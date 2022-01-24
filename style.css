@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(255, 254, 204);
+}
+
+#album {
+  background-color: rgb(255, 254, 204);
+}
+
+.ig {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.niomic {
+  text-decoration: none;
+}
+
+.slider {
+  height: 10px;
+  padding-top: 3rem;
+}
